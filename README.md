@@ -1,0 +1,1 @@
+This App is a instant messaging app inspired by features in various already existing apps.Entirely developed using Flutter. This can have potential bugs and I am actively involved in fixing them. You can suggest potential features and changes. I am happy to hear from you.
